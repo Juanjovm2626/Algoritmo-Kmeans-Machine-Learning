@@ -1,2 +1,2 @@
-# Algoritmo-Kmeans-Machine-Learning
+# Algoritmo-Kmeans-Machine-Learning- FC25
 En este repositorio trabajo sobre el algoritmo kmeans, k ++. Tambien se hizo el codigo manual para usar distancia Euclidiana, Mahanalobis y Manhattan, usando las bases de datos de FC25 (FIFA)
