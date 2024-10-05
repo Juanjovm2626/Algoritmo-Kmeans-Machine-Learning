@@ -13,14 +13,11 @@ sklearn.
 - **Version 2:** Implementacion de K-means utilizando la libreria
 sklearn y el algoritmo K++ para la inicializacion de centroides.
 
-- **Version 3:** Implementacion del K-means con distancia Euclidi-
-ana.
+- **Version 3:** Implementacion del K-means con distancia Euclidiana.
 
-- **Version 4:** Implementacion del K-means con distancia de Ma-
-halanobis.
+- **Version 4:** Implementacion del K-means con distancia de Mahalanobis.
 
-- **Version 5:** Implementacion del K-means con distancia de Man-
-hattan.
+- **Version 5:** Implementacion del K-means con distancia de Manhattan.
 
 ## 🔩 Herramiemientas usadas 😎
 
